@@ -36,8 +36,8 @@
 ### 📊 GitHub статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gen1us02&show_icons=true" alt="GitHub Stats" width="100%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gen1us02&layout=compact" alt="Top Languages" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gen1us02&show_icons=true" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gen1us02&layout=compact" alt="Top Languages" width="50%" />
 </p>
 
 <p align="center">
