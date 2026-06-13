@@ -7,8 +7,8 @@
 
 - 🧠 Сейчас углубляюсь в **системный дизайн** и алгоритмы.
 - 🐍 В свободное время решаю задачи на **LeetCode**.
-- 👯 Открыт для сотрудничества в **Open Source проектах** (особенно AI/ML).
-- 🔍 Хочу попробовать себя в таких сферах, как AI или ML.
+- 👯 Открыт для сотрудничества в **Open Source проектах**.
+- 🔍 Хочу попробовать себя в таких сферах, как AI, ML или Backend.
 
 ---
 
@@ -24,12 +24,15 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000?style=for-the-badge&logo=sqlalchemy)
 ![PySide6](https://img.shields.io/badge/PySide6-00B4D8?style=for-the-badge&logo=qt&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+![Pygame](https://img.shields.io/badge/Pygame-000?style=for-the-badge&logo=python&logoColor=white)
 
 #### Базы данных и инструменты
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-000?style=for-the-badge&logo=python&logoColor=white)
+![Docker
+Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
